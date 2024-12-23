@@ -1,0 +1,6 @@
+{
+    "minPower": 1000,
+    "useProxy": true,
+    "retryDelay": 5000,
+    "requestTimeout": 30000
+}
